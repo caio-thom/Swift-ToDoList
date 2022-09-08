@@ -1,3 +1,4 @@
 # Swift-ToDoList
-This app is a To Do list, with the objective of making a list of notes where there is a title and content.
-To make this app I used MVC, array, UIAlertController and Reload Data in UITableView
+Esse aplicativo é um To Do List, que tem como obejtivo criar varios notes(parecidos com o app notes do IOS), contendo titulo e conteudo.
+Para fazer esse app, foi usado MVC, array, UIAlertController e DATA utilizando UITableView
+
